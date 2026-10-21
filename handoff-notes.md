@@ -17,3 +17,5 @@ I received an update documenting the billing escalation process, which was appen
 
 ## Git workflow explanation
 Running `git commit` only updates your local repository history inside the hidden `.git` folder on your machine. Git operates entirely offline for day-to-day work, meaning local commits are isolated snapshots. To share those snapshots and update the remote repository on GitHub, a separate network operation—`git push`—is strictly required.
+
+
